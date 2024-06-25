@@ -1,2 +1,6 @@
-ipykernel
-pandas
+ipykernel==6.29.4
+pandas==2.2.2
+matplotlib==3.8.4
+setuptools==70.0.0
+ydata_profiling==4.8.3
+scikit-learn==1.5.0
