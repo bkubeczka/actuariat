@@ -3,3 +3,9 @@
 /data_preparation_files
 /ML_Assurance - sujet_2.pdf
 /_INPUT_
+/_REFERENCE_
+/*_files
+*_quarto*
+data_profiling.html
+*.html
+preprocess_data.pkl
